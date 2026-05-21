@@ -2,38 +2,38 @@
 
 # hi.
 
-**health industry · экосистема**
+**health industry · ecosystem**
 
-Инструменты для людей, которые работают над собой
+Tools for people who work on themselves
 
 </div>
 
 ---
 
-## Что такое hi.
+## What is hi.
 
-**hi.** — экосистема продуктов для здоровья и развития привычек. Мы строим простые, красивые инструменты, которые помогают людям держать слово перед собой — и перед другими.
+**hi.** is an ecosystem of products for health and habit development. We build simple, beautiful tools that help people keep their word — to themselves and to others.
 
-Всё вокруг одной идеи: **делать каждый день — сложно. Делать вместе — проще.**
-
----
-
-## Продукты
-
-### [DoubleDo](https://github.com/hi-ecosystem/DoubleDo) — соревнования по привычкам
-Мобильное приложение для отслеживания привычек в формате 1-на-1 соревнований. Выбери привычку, пригласи друга — и держитесь вместе.
-
-- Ежедневные чек-ины и календарь прогресса
-- Соревнования между двумя пользователями
-- Статистика, стрики, реакции
-- PWA — устанавливается на iOS и Android без App Store
-
-### [hi-dashboard](https://github.com/hi-ecosystem/hi-dashboard) — внутренний дашборд
-Административная панель экосистемы hi. SSO-интеграция с DoubleDo.
+Everything revolves around one idea: **showing up every day is hard. Showing up together is easier.**
 
 ---
 
-## Стек
+## Products
+
+### [DoubleDo](https://github.com/hi-ecosystem/DoubleDo) — habit competitions
+A mobile app for habit tracking through 1-on-1 competitions. Pick a habit, invite a friend — and hold each other accountable.
+
+- Daily check-ins and progress calendar
+- Head-to-head competitions between two users
+- Stats, streaks, and reactions
+- PWA — installable on iOS and Android without the App Store
+
+### [hi-dashboard](https://github.com/hi-ecosystem/hi-dashboard) — internal dashboard
+Admin panel for the hi. ecosystem with SSO integration for DoubleDo.
+
+---
+
+## Stack
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=20232A)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
